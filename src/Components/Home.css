@@ -1,0 +1,18 @@
+.Home-body{
+    color: white;
+    display: flex;
+}
+
+.image-1 {
+    width: 450px;
+    height: 370px;
+    transform: rotate(-25deg);
+    position: right;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.title{
+    margin-top: 15%;
+    margin-left: 10%;
+}
